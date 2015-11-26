@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mib</title>
+    <link>http://mbaragiola.org/</link>
+    <description>Recent content on mib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2015 19:47:07 -0300</lastBuildDate>
+    <atom:link href="http://mbaragiola.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://mbaragiola.org/blog/first/</link>
+      <pubDate>Tue, 24 Nov 2015 19:47:07 -0300</pubDate>
+      
+      <guid>http://mbaragiola.org/blog/first/</guid>
+      <description>
+
+&lt;h2 id=&#34;first-post:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;First post&lt;/h2&gt;
+
+&lt;p&gt;Deploying a simple website with &lt;a href=&#34;http://gohugo.io&#34;&gt;hugo&lt;/a&gt;.
+Trying to keep it simple. I like it simple.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://mbaragiola.org/</link>
+      <pubDate>Tue, 24 Nov 2015 19:46:03 -0300</pubDate>
+      
+      <guid>http://mbaragiola.org/</guid>
+      <description>
+
+&lt;h2 id=&#34;mariano-baragiola:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Mariano Baragiola&lt;/h2&gt;
+
+&lt;p&gt;Hello, I do exist and I provide IT solutions.&lt;/p&gt;
+
+&lt;h3 id=&#34;here-s-my-public-stuff:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Here&amp;rsquo;s my public stuff&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mbaragiola&#34;&gt;github.com/mbaragiola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/u/mbaragiola&#34;&gt;gitlab.com/mbaragiola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ar.linkedin.com/in/marianobaragiola&#34;&gt;linkedin.com/mbaragiola&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don&amp;rsquo;t have Facebook, Twitter, Google+, etc.
+You can reach me via email through mariano at baragiola dot com dot ar.&lt;/p&gt;
+
+&lt;h3 id=&#34;here-s-a-few-things-i-like:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Here&amp;rsquo;s a few things I like&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.openbsd.org/&#34;&gt;OpenBSD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://harmful.cat-v.org/&#34;&gt;harmful.cat-v.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://suckless.org/&#34;&gt;suckless&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.motherfuckingwebsite.com/&#34;&gt;motherfuckingwebsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://python.org/&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://liamrosen.com/fitness.html&#34;&gt;Get fit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;a-or-b:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;A or B?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;GPL or BSD? BSD.&lt;/li&gt;
+&lt;li&gt;Emacs or vi/vim? vi.&lt;/li&gt;
+&lt;li&gt;Firefox or Chrome? Firefox.&lt;/li&gt;
+&lt;li&gt;Gnome or KDE? Gnome.&lt;/li&gt;
+&lt;li&gt;Fedora or Ubuntu? Debian.&lt;/li&gt;
+&lt;li&gt;Debian or Ubuntu? Debian.&lt;/li&gt;
+&lt;li&gt;CentOS or RHEL? OpenBSD.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

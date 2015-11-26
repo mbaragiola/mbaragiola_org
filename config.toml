@@ -1,0 +1,12 @@
+baseurl = "http://mbaragiola.org/"
+languageCode = "en-us"
+title = "mib"
+theme = "hyde"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+  description = "mbaragiola.org"
+  author = "Mariano Baragiola"
