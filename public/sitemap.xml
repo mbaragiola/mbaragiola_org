@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://mbaragiola.org/</loc>
     <lastmod>2015-12-12T18:28:35-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/2/</loc>
+    <loc>http://mbaragiola.org/blog/2/</loc>
     <lastmod>2015-12-12T18:28:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/first/</loc>
+    <loc>http://mbaragiola.org/blog/first/</loc>
     <lastmod>2015-11-24T19:47:07-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://mbaragiola.org/about/</loc>
     <lastmod>2015-11-24T19:46:03-03:00</lastmod>
   </url>
   
