@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on mib</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blogs on mib</description>
+    <title>Https on mib</title>
+    <link>http://localhost:1313/categories/https/</link>
+    <description>Recent content in Https on mib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Dec 2015 18:28:35 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/https/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Just another day in the OpenBSD mailing lists</title>
@@ -26,21 +26,6 @@ directly.  Except, how would you know it was really Theo?&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://marc.info/?l=openbsd-misc&amp;amp;m=144983687717897&amp;amp;w=2&#34;&gt;https://marc.info/?l=openbsd-misc&amp;amp;m=144983687717897&amp;amp;w=2&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>first</title>
-      <link>http://localhost:1313/blog/first/</link>
-      <pubDate>Tue, 24 Nov 2015 19:47:07 -0300</pubDate>
-      
-      <guid>http://localhost:1313/blog/first/</guid>
-      <description>
-
-&lt;h2 id=&#34;first-post:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;First post&lt;/h2&gt;
-
-&lt;p&gt;Deploying a simple website with &lt;a href=&#34;http://gohugo.io&#34;&gt;hugo&lt;/a&gt;.
-Trying to keep it simple. I like it simple.&lt;/p&gt;
 </description>
     </item>
     
