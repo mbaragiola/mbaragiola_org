@@ -33,7 +33,6 @@ You can reach me via email through mariano at baragiola dot com dot ar.
 * GPL or BSD? BSD.
 * Emacs or vi/vim? vi.
 * Firefox or Chrome? Firefox.
-* Gnome or KDE? Gnome.
+* Gnome or KDE? Xfce.
+* FreeBSD or OpenBSD? OpenBSD.
 * Fedora or Ubuntu? Debian.
-* Debian or Ubuntu? Debian.
-* CentOS or RHEL? OpenBSD.
